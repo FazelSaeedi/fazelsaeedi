@@ -3,7 +3,7 @@
 ### www.fazeltsaeedi.ir  
 
 ### Available for a remote job:
-[![Linkedin Badge](https://img.shields.io/badge/-Iman%20Ghafoori-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/iman-ghafoori/)](https://linkedin.com/in/iman-ghafoori/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Fazel%20Saeedi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-fazel-saeedi-b967111ba/)](https://www.linkedin.com/in/m-fazel-saeedi-b967111ba/) 
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/FazelSaeedi/)](https://t.me/FazelSaeedi/)
 </p>
