@@ -3,7 +3,10 @@
 ### www.fazeltsaeedi.ir  
 
 ### Available for a remote job:
-[![Gmail Badge](https://img.shields.io/badge/-FazelSaeedi@iran.ir-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:FazelSaeedi@iran.ir)](mailto:FazelSaeedi@iran.ir)
+[![Linkedin Badge](https://img.shields.io/badge/-Iman%20Ghafoori-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/iman-ghafoori/)](https://linkedin.com/in/iman-ghafoori/) 
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/FazelSaeedi/)](https://t.me/FazelSaeedi/)
+</p>
 
 
 
