@@ -2,6 +2,10 @@
 ### I am  updating my profile... Loading
 ### www.fazeltsaeedi.ir  
 
+### Available for a remote job:
+[![Gmail Badge](https://img.shields.io/badge/-FazelSaeedi@iran.ir-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:FazelSaeedi@iran.ir)](mailto:FazelSaeedi@iran.ir)
+
+
 
 <!--
 **FazelSaeedi/fazelsaeedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
