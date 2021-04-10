@@ -1,10 +1,3 @@
-### Hiiz there 👋
-### I am  updating my profile... Loading
-### www.fazeltsaeedi.ir  
-
-  
-
-
 
 ### Available for a  remote job:
 [![Linkedin Badge](https://img.shields.io/badge/-Fazel%20Saeedi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-fazel-saeedi-b967111ba/)](https://www.linkedin.com/in/m-fazel-saeedi-b967111ba/) 
