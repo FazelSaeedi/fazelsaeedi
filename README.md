@@ -12,7 +12,7 @@ var aboutMe = {
     profession: "Full Stack Software Developer",
     location: "Iran",
     website: "https://www.FazelTsaeedi.ir",
-    email : "FazelSaeedi@iran.ir" ,
+    email : "FazelTsaeedi@yahoo.com" ,
     stack: {
         backEnd: {
             languages: [PHP, C#, JavaScript, SQL],
