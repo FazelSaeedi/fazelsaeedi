@@ -6,9 +6,8 @@
 
 
 
-
 ```javascript
-var aboutMe = {
+var aboutMe = { 
     name: "Mohammad F",
     profession: "Full Stack Software Developer",
     location: "Iran",
