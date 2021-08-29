@@ -16,7 +16,7 @@ var aboutMe = {
     stack: {
         backEnd: {
             languages: [PHP, C#, JavaScript, SQL],
-            frameworks: [.netCore , Laravel , python ],
+            frameworks: [Asp .netCore , Laravel , python ],
             databases: [PostgreSQL, MySQL, MongoDB , Django]
         },
         frontEnd: {
