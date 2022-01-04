@@ -16,12 +16,12 @@ var aboutMe = {
     stack: {
         backEnd: {
             languages: [PHP, C#, JavaScript, SQL],
-            frameworks: [Asp .netCore , Laravel , python ],
-            databases: [PostgreSQL, MySQL, MongoDB , Django]
+            frameworks: [Asp .netCore , Laravel , Django],
+            databases: [ SQLserver, PostgreSQL, MySQL, MongoDB ]
         },
         frontEnd: {
             languages: [JavaScript, HTML5, CSS3 ],
-            frameworks: [VueJs , Bootstrap, jQuery ]
+            frameworks: [ Angular , VueJs , Bootstrap, jQuery ]
         }
     },
     design: [REST APIs , MVC , MVVM , Microservices ],
