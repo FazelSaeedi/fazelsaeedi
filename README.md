@@ -7,26 +7,21 @@
  
 ```javascript
 var aboutMe = { 
-    name: "Mohammad F",
+    name: "Fazel",
     profession: "Backend Developer",
     location: "Iran",
-    website: "https://www.FazelTsaeedi.ir",
     email : "FazelTsaeedi@yahoo.com" ,
     stack: {
         backEnd: {
-            languages: [PHP, C#, JavaScript, SQL],
+            languages: [C#, PHP , JavaScript, SQL],
             frameworks: [Asp .netCore , Laravel , Django],
             databases: [ SQLserver, PostgreSQL, MySQL, MongoDB ]
-        },
-        frontEnd: {
-            languages: [JavaScript, HTML5, CSS3 ],
-            frameworks: [ Angular , VueJs , Bootstrap, jQuery ]
         }
     },
     design: [REST APIs , MVC , MVVM , Microservices ],
     processes: [Agile, Paired Programming ],
     tools: [Git, GitHub, Docker],
-    Systems: [ Windows ,  Linux , ]
+    OS : [ Windows ,  Linux , ]
 }
 ``` 
 
