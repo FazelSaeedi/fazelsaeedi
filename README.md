@@ -13,8 +13,8 @@ var aboutMe = {
     email : "FazelTsaeedi@yahoo.com" ,
     stack: {
         backEnd: {
-            languages: [C#, PHP , JavaScript, SQL],
-            frameworks: [Asp .netCore , Laravel ],
+            languages: [C# , JavaScript, SQL ],
+            frameworks: [Asp .netCore , Angular ],
             databases: [ SQLserver, PostgreSQL, MySQL, MongoDB ]
         }
     },
