@@ -1,5 +1,5 @@
 
-[![Linkedin Badge](https://img.shields.io/badge/-Fazel%20Saeedi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-fazel-saeedi-b967111ba/)](https://www.linkedin.com/in/m-fazel-saeedi-b967111ba/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Fazel%20Saeedi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fazelsaeedi/)](https://www.linkedin.com/in/fazelsaeedi/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/FazelSaeedi/)](https://t.me/FazelSaeedi/)
 </p>
 
